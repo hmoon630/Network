@@ -2,6 +2,6 @@
 
 * [Network](README.md)
 
-## Chapter 1
+## Summary
 
-* [Page 1](chapter-1/page-1.md)
+* [Chapter 1](contents/chapter1.md)
